@@ -1,5 +1,6 @@
 package justExample.mypackage;
 
-public class A {
-
+public class A 
+{
+		String x="";
 }
